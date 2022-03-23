@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940607519290",
+    "project_id": "beliapa-d20f3",
+    "storage_bucket": "beliapa-d20f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940607519290:android:2d80c7e558b660990bd303",
+        "android_client_info": {
+          "package_name": "com.app.beliapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940607519290-ghu1ed7l7e8e8vvvvhk2jm36s6atf1jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1AC0RXdbuqKa2L_8GHRBGIwUjG4KtjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940607519290-ghu1ed7l7e8e8vvvvhk2jm36s6atf1jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
